@@ -1,0 +1,11 @@
+.container{
+    background: fixed;
+    background: radial-gradient( #F0FFFF,#90cde5);
+    
+}
+body{
+   align-items: center;
+    margin:0%;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+}
